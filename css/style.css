@@ -1,0 +1,256 @@
+/**furniture**/
+.furniture-company {
+    position: absolute;
+    width: 1440px;
+    height: 920px;
+    left: 80px;
+    top: 152px;
+    box-shadow: 16px 16px 32px, rgba(0, 0, 0, 0.1);
+}
+
+.nav-bar {
+    position: absolute;
+    height: 79px;
+    left: 0px;
+    right: 1px;
+    top: 0px;
+    background: #eeeeee;
+    width: 1400px;
+}
+
+.logo {
+    position: absolute;
+    height: 79px;
+    left: 80px;
+    right: 1173px;
+    top: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.product {
+    position: absolute;
+    height: 79px;
+    left: 518px;
+    right: 846px;
+    top: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.offers {
+    position: absolute;
+    height: 79px;
+    left: 626px;
+    right: 738px;
+    top: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.stores {
+    position: absolute;
+    height: 79px;
+    left: 737px;
+    right: 627px;
+    top: -1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.help {
+    position: absolute;
+    height: 79px;
+    left: 847px;
+    right: 517px;
+    top: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.sign {
+    position: absolute;
+    height: 79px;
+    left: 1100px;
+    right: 189px;
+    top: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.log {
+    position: absolute;
+    height: 79px;
+    left: 1283px;
+    right: 82px;
+    top: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.copy-container {
+    position: absolute;
+    width: 515px;
+    height: 850px;
+    left: 60px;
+    top: 110px;  
+    background: #eeeeee;
+}
+
+.copy-container p {
+    position: absolute;
+    width: 97px;
+    height: 29px;
+    left: 64px;
+    top: 775px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 29px;
+   
+}
+
+
+.copy1-container {
+    position: absolute;
+    width: 700px;
+    height: 410px;
+    left: 606px;
+    top: 550px;  
+    background: #eeeeee;
+}
+
+.copy1-container p {
+    position: absolute;
+    width: 58px;
+    height: 29px;
+    left: 70px;
+    top: 340px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 29px; 
+}
+
+.copy2-container {
+    position: absolute;
+    width: 296px;
+    height: 410px;
+    left: 607px;
+    top: 110px;   
+    background: #eeeeee;
+}
+
+.copy2-container p {
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 70px;
+    top: 350px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 29px;  
+}
+
+.copy3-container {
+    position: absolute;
+    width: 380px;
+    height: 410px;
+    left: 925px;
+    top: 110px;  
+    background: #eeeeee;
+}
+
+.copy3-container p {
+    position: absolute;
+    width: 139px;
+    height: 29px;
+    left: 105px;
+    top: 350px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 29px; 
+}
+
+.sofa {
+    position: absolute;
+    width: 403px;
+    height: 407px;
+    left: 106px;
+    top: 250px;
+    
+}
+.cushion {
+    position: absolute;
+    width: 468px;
+    height: 274px;
+    left: 180px;
+    top: 106px; 
+    background: #eeeeee;
+}
+
+.chair {
+    position: absolute;
+    width: 200px;
+    height: 186px;
+    left: 90px;
+    top: 140px; 
+    background: #eeeeee;
+}
+
+.lamp {
+    position: absolute;
+    width: 178px;
+    height: 186px;
+    left: 176px;
+    top: 150px;
+    background: #eeeeee;
+}
